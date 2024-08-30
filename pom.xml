@@ -2,7 +2,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.orionlibs</groupId>
     <artifactId>orion-task-runner</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.3</version>
     <name>Orion Task runner</name>
     <description>Java asynchronous task runner</description>
     <url>https://github.com/orionlibs/orion-task-runner</url>
